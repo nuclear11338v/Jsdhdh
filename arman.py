@@ -12,7 +12,7 @@ import os
 import hashlib
 import sys
 
-API_TOKEN = '8142573561:AAH1lzOWCKoj2Ht4_SeoXyXDxxxfYTOrTEE'  # Replace with your bot's API token
+API_TOKEN = '7685491877:AAGCya_bYave_CQm0cyEUNG0hnhRYt1oCsA'  # Replace with your bot's API token
 bot = telebot.TeleBot(API_TOKEN)
 
 admin_id = "7858368373"
